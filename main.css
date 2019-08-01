@@ -12,7 +12,7 @@ body { /*linear gradient across the page*/
 }*/
 
 html {
-    background-image:url("cool-background.png") no-repeat center center fixed;
+    background-image:url("./cool-background.png") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
